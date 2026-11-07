@@ -1,2 +1,2 @@
 testLinux
-Đã lâu không gặp testLinux
+Đã lâu không gặp linuxmain
