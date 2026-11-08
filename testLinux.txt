@@ -1,10 +1,14 @@
-Hello Rebase 5
-Hello Rebase 6
+NewTask 1
+NewTask 2
 testLinux
 Hello Rebase 1
 Hello Rebase 2
 Đã lâu không gặp linuxmain
+NewTask 7
+NewTask 8
 HelloMain1
+NewTask 5
+NewTask 6
 HelloMain2
-Hello Rebase 3
-Hello Rebase 4
+NewTask 3
+NewTask 4
